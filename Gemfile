@@ -30,6 +30,7 @@ gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
